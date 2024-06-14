@@ -2,7 +2,7 @@
 
 ### - ✨ Захар, 16 лет с г. Днепр (Украина)
   
-### - 🔥 Junior Front-end Developer
+### - 🔥 Front-end Developer
 
 <span>VK - <a href="https://vk.com/dn1provskiy" target="_blank">Написать</a> |</span>
 <span>Telegram - <a href="https://t.me/dn1provskiy" target="_blank">Написать</a> |</span>
